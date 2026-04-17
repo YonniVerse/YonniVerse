@@ -13,8 +13,8 @@
 
 <div align="center">
 
-> 🎓 **M1 in Information and Communication Science & Technology**
-> 🏫 **École Supérieure Polytechnique d'Antsiranana** — ESP Antsiranana
+> 🎓 **Master 1 in Information and Communication Science & Technology**
+> 🏫 **École Supérieure Polytechnique d'Antsiranana**
 
 </div>
 
