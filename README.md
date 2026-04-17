@@ -1,40 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a1929,40:1e3a5f,100:0d47a1&height=240&section=header&text=YONNI%20TINOGNY&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20•%20AI%20Enthusiast%20•%20Open%20Source&descAlignY=60&descSize=15&descColor=64b5f6&animation=twinkling&fontAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0a1929,40:1e3a5f,100:0d47a1&height=240&section=header&text=YONNI&fontSize=70&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Engineer%20•%20Open%20Source%20Enthusiast&descAlignY=60&descSize=15&descColor=64b5f6&animation=twinkling&fontAlign=50" width="100%" />
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=64B5F6&center=true&vCenter=true&width=600&lines=Building+scalable+backend+architectures;Wrestling+with+local+LLMs+%26+Mistral;Linux+is+not+an+OS,+it's+a+lifestyle;Crafting+digital+experiences+from+Madagascar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=64B5F6&center=true&vCenter=true&width=600&lines=Building+scalable+backend+architectures;Mastering+the+Art+of+Clean+Code;Linux+is+not+an+OS,+it's+a+lifestyle;Crafting+digital+experiences+from+Madagascar)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ⚡ Quick Start
+## ⚡ Quick Overview
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      
-### 👤 About Me
-- 🎓 **M1 STIC Student** exploring the depths of computer science.
-- 🚀 **Full-Stack Dev** with a deep love for Backend systems.
-- 🐧 **Linux Devotee** (Arch / Debian / Kali).
-- 🧠 Focused on **Local AI integration** (Mistral 3B) and clean architecture.
-- 📍 Based in **Antsiranana, Madagascar**.
+<div align="center">
 
-    </td>
-    <td width="50%" valign="top">
+> 🎓 **M1 en Science et Technologie de l'Information et de la Communication**
+> 🏫 **École Supérieure Polytechnique d'Antsiranana** (ESP Antsiranana)
 
-### 🛠️ Current Focus
-- 🏗️ **HandyHub**: Building a regional marketplace for local impact.
-- 💇 **Salon Atlas**: Revolutionizing salon management systems.
-- 🏦 **SmartBank**: Categorizing finances via local LLMs.
-- ⚡ Optimizing my **Antigravity** (VS Code) workflow.
+</div>
 
-    </td>
-  </tr>
-</table>
+- 🚀 **Développeur Full-Stack** orienté Backend et architectures systèmes.
+- 🐧 **Linux Devotee** : Mon environnement est mon outil de création (Arch, Debian, Kali).
+- 🧠 **Intelligence Artificielle** : Passionné par l'intégration locale de LLM (Mistral 3B).
+- 📍 Basé à **Antsiranana, Madagascar**.
 
 ---
 
@@ -47,17 +35,15 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ### ⚙️ Backend & Intelligence
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Mistral](https://img.shields.io/badge/Local_AI-Mistral-orange?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 ### 🗄️ Infrastructure & Systems
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -83,11 +69,9 @@
 
 ## 🧩 The Philosophy
 
-> *"Code is a medium—like music or painting. Done right, it should make people feel something."*
-
 ```bash
 $ sudo thoughts --analyze-problem
-# 1. Deconstruct the complexity.
-# 2. Build the smallest functional core.
-# 3. Optimize only when it matters.
-# 4. Human-readable > Machine-executable.
+# 1. Comprendre avant de coder.
+# 2. Décomposer la complexité en éléments simples.
+# 3. Optimiser uniquement quand la lenteur devient un obstacle.
+# 4. Le code est une poésie qui doit être lue par les humains.
