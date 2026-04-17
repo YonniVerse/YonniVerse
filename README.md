@@ -88,9 +88,13 @@
 
 <div align="center">
 
-| **GitHub Stats** | **Top Languages** |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=YonniVerse&show_icons=true&theme=tokyonight&hide_border=true&title_color=64b5f6&icon_color=64b5f6" height="170px" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonniVerse&layout=compact&theme=tokyonight&hide_border=true&title_color=64b5f6" height="170px" /> |
+<img src="https://github-readme-stats.vercel.app/api?username=YonniVerse&show_icons=true&theme=tokyonight&hide_border=true&title_color=64b5f6&icon_color=64b5f6&width=100%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonniVerse&layout=compact&theme=tokyonight&hide_border=true&title_color=64b5f6&langs_count=8" />
+
+<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=YonniVerse&theme=react-dark&hide_border=true&area=true&color=64b5f6" width="100%" />
 
@@ -154,5 +158,25 @@
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,40:1e3a5f,100:0a1929&height=140&section=footer&text=%22Programs+must+be+written+for+people+to+read%2C+and+only+incidentally+for+machines+to+execute.%22&fontSize=11&fontColor=bbdefb&fontAlignY=40&desc=—+Harold+Abelson+%E2%80%A2+REACT+%E2%80%A2+NODE.JS+%E2%80%A2+PYTHON+%E2%80%A2+LINUX+%E2%80%A2+DOCKER&descAlignY=72&descSize=10&descColor=42a5f5&animation=fadeIn&fontAlign=50&stroke=1976d2&strokeWidth=1" width="100%" />
+
+---
+
+### 💬
+
+> *"Programs must be written for people to read,*
+> *and only incidentally for machines to execute."*
+>
+> — **Harold Abelson**
+
+<br/>
+
+![React](https://img.shields.io/badge/REACT-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/NODE.JS-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/LINUX-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,40:1e3a5f,100:0a1929&height=100&section=footer&animation=fadeIn" width="100%" />
+
 </div>
