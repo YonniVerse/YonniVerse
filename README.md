@@ -88,11 +88,16 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YonniVerse&show_icons=true&theme=tokyonight&hide_border=true&title_color=64b5f6&icon_color=64b5f6&width=100%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonniVerse&layout=compact&theme=tokyonight&hide_border=true&title_color=64b5f6&langs_count=8" />
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=YonniVerse&show_icons=true&theme=tokyonight&hide_border=true&title_color=64b5f6&icon_color=64b5f6&width=100%" width="100%" />
+    </td>
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YonniVerse&layout=compact&theme=tokyonight&hide_border=true&title_color=64b5f6&langs_count=8" width="100%" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -126,13 +131,11 @@
 ---
 
 ## 🌱 Currently Exploring
+📦 Microservices & Event-Driven Architecture
+🤖 LLM Integration & AI-Powered APIs
+🔐 Security-First Backend Design
+⚡ Edge Computing & Low-Latency Systems
 
-```
-📦  Microservices & Event-Driven Architecture
-🤖  LLM Integration & AI-Powered APIs
-🔐  Security-First Backend Design
-⚡  Edge Computing & Low-Latency Systems
-```
 
 ---
 
@@ -161,12 +164,11 @@
 
 ---
 
-### 💬
+## 💬
 
-> *"Programs must be written for people to read,*
-> *and only incidentally for machines to execute."*
->
-> — **Harold Abelson**
+<h3 align="center">“Programs must be written for people to read, and only incidentally for machines to execute.”</h3>
+
+<p align="center"><strong>— Harold Abelson</strong></p>
 
 <br/>
 
