@@ -21,7 +21,6 @@
 
 - 🚀 **Développeur Full-Stack** orienté Backend et architectures systèmes.
 - 🐧 **Linux Devotee** : Mon environnement est mon outil de création (Arch, Debian, Kali).
-- 🧠 **Intelligence Artificielle** : Passionné par l'intégration locale de LLM (Mistral 3B).
 - 📍 Basé à **Antsiranana, Madagascar**.
 
 ---
